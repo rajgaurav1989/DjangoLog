@@ -1,0 +1,2 @@
+[13/Nov/2018 08:45:51] INFO [polls.views:6] This is a manually logged INFO string.
+[13/Nov/2018 08:45:51] DEBUG [polls.views:7] This is a manually logged DEBUG string.
